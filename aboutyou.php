@@ -125,5 +125,4 @@
 <h4>Total:</h4>
 <p>Total repetitions (verses + chorus): <?php echo $total; ?></p>
 </body>
-
 </html>
